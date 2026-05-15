@@ -1,4 +1,4 @@
-# Ubderstanding the project 
+# Understanding the project 
 
 GridWise is a clean energy planning platform designed to make early-stage renewable energy decisions more accessible. The dashboard allows users to enter basic building and energy information, then estimates solar system size, annual energy production, battery storage needs, project cost, payback period, electricity savings, carbon reduction, and simplified grid/BESS deferral potential.
 
